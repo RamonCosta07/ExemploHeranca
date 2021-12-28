@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\HerançaExemplo.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\HerançaExemplo.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\HerançaExemplo.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\HerançaExemplo.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\HerançaExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\ref\HerançaExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\bin\Debug\net5.0\HerançaExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\ref\HerançaExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\HerançaExemplo\HerançaExemplo\obj\Debug\net5.0\HerançaExemplo.genruntimeconfig.cache
